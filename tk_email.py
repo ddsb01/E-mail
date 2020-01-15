@@ -12,7 +12,7 @@ import smtplib
 
 
 # the main window object "master"
-master = Tk(className = "E-MAILZZ")
+master = Tk(className = "ddsb E-MAILZ")
 
 master.geometry('620x250')
 
