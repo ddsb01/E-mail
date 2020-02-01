@@ -67,7 +67,7 @@ pswrd.grid(row = 3, column = 1)
 
 
 
-# B U T T O N :
+# B U T T O N : 
 btn = Button(master, text = "S E N D !", padx = 5, pady = 5, font = 'Arial 16 bold underline', foreground = 'red', width = 15, activebackground = 'green', highlightbackground = 'black', command = check_entry)
 btn.grid(row = 4, columnspan = 2)
 
